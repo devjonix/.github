@@ -1,33 +1,40 @@
 # DEV Joni in GitHub
 
-Within the repositories hosted here, you will find the source code for all our open-source projects that we have released: Software packages, libraries, firmware files, 3D models, documents and more.
+Welcome to the home of DEV Joni's open-source technologies.
+Here you’ll find all public repositories for our platforms, tools, libraries, firmware, 3D models, documentation - everything we build openly.
 
-If you are only interested in using our projects - not developing or reporting issues - you can usually find all you need in our Downloads and Shop sections in
-[https://devjoni.com](https://devjoni.com)
+Our mission is to develop foundational, vendor-neutral technologies that form the base layer for science, industry and research.
+All repositories here are free to use, modify, and build upon.
 
-## Finding your repository
+## 🚀 Finding the right repository
 
-Rather than trying to find the right repository here, directly in GitHub, it may be easier to find it via our Wiki
-[https://devjoni.com/wiki/](https://devjoni.com/wiki/)
+You don’t need to browse randomly — the easiest way to navigate:
 
-Alternatively, if it is something you downloaded from Downloads section, there's always a link to the corresponding repository page there
-[https://devjoni.com/downloads/](https://devjoni.com/downloads/)
+🔗 Project directory & documentation (Wiki)
+→ [https://devjoni.com/wiki/](https://devjoni.com/wiki/)
 
-## About DEV Joni
-*DEV Joni* is a full-stack technology business operated from Hyrynsalmi, Finland. We design and manufacture open-source tools and devices mainly for scientific and industrial use. Anything you can find here you can also buy from us - and vice versa - anything you can buy from us you can DIY build it yourself provided with the right tools and materials.
+Rather than trying to find the right repository here, directly in GitHub, it may be easier to find it via our Wiki.
 
-## Community
+## 🏭 What is DEV Joni
 
-[https://devjoni.com/forum/](https://devjoni.com/forum/)
+DEV Joni is a full-stack technology lab based in Hyrynsalmi, Finland.
+We build core technologies for research and industry: hardware, firmware, software, communication protocols and development tools - all open-source.
 
-## Contributing
+We believe technology should be:
 
-We gratefully accept all contributions, wheter small or large
+- 🔧 Modular
+- 🤝 Interoperable
+- 🌍 Open and repairable
+- 🔓 Free from vendor lock-in
 
-- Testing and reporting issues
-- Sharing your ideas how to improve
-- Direct code changes via github pull requests
+Anything hosted here may be used as-is, modified, or integrated into commercial or research work under our licensing terms (GPLv3-only).
 
-When contributing to the repositories, you keep your copyrights to any work you create. The only requirement is to license it under the free and open-source GPLv3-only license.
+## 🤝 Contributing
 
-Let's build some open-source stuff.
+We welcome contributions of all kinds - whether small or substantial:
+
+- Test & report issues
+- Suggest improvements
+- Submit pull requests
+
+You retain rights to your contributions; the only requirement is that they remain under GPLv3-only to keep the ecosystem open.

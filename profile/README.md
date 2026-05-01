@@ -1,40 +1,28 @@
-# DEV Joni in GitHub
+# DEV Joni
 
-Welcome to the home of DEV Joni's open-source technologies.
-Here you’ll find all public repositories for our platforms, tools, libraries, firmware, 3D models, documentation - everything we build openly.
+The central hub for DEV Joni's open-source technologies and foundational architectures.
 
-Our mission is to develop foundational, vendor-neutral technologies that form the base layer for science, industry and research.
-All repositories here are free to use, modify, and build upon.
+We are developing open-source, vendor-neutral building blocks for scientific research and industrial automation. Our work focuses on the intersection of hardware, firmware, and software to provide a robust foundation for modular, interoperable systems.
 
-## 🚀 Finding the right repository
+## Core Competencies
 
-You don’t need to browse randomly — the easiest way to navigate:
+We develop foundational technologies across the full stack:
 
-🔗 Project directory & documentation (Wiki)
-→ [https://devjoni.com/wiki/](https://devjoni.com/wiki/)
+* **Hardware & Firmware:** Modular embedded systems and device-level implementations.
+* **Communication Protocols:** Semantic-layer architectures and standardized connectivity.
+* **Software Ecosystems:** High-level APIs, driver frameworks, and development tools.
+* **Systems Integration:** Tools for scientific instrumentation and industrial automation.
 
-Rather than trying to find the right repository here, directly in GitHub, it may be easier to find it via our Wiki.
+### Development Principles
 
-## 🏭 What is DEV Joni
+All DEV Joni projects are guided by four core engineering principles:
+1. **Modularity:** Components are designed for seamless integration and replacement.
+2. **Interoperability:** Emphasis on standardized, vendor-independent communication.
+3. **Transparency:** Open architectures that prioritize clarity and understanding.
+4. **Longevity:** Designs that resist vendor lock-in and prioritize long-term system stability.
 
-DEV Joni is a full-stack technology lab based in Hyrynsalmi, Finland.
-We build core technologies for research and industry: hardware, firmware, software, communication protocols and development tools - all open-source.
-
-We believe technology should be:
-
-- 🔧 Modular
-- 🤝 Interoperable
-- 🌍 Open and repairable
-- 🔓 Free from vendor lock-in
-
-Anything hosted here may be used as-is, modified, or integrated into commercial or research work under our licensing terms (GPLv3-only).
-
-## 🤝 Contributing
-
-We welcome contributions of all kinds - whether small or substantial:
-
-- Test & report issues
-- Suggest improvements
-- Submit pull requests
-
-You retain rights to your contributions; the only requirement is that they remain under GPLv3-only to keep the ecosystem open.
+### Contributing
+We welcome community involvement to help evolve these technologies. Contributions are encouraged via:
+* **Issue Reporting:** Documenting bugs or technical limitations.
+* **Feature Requests:** Suggesting improvements to existing architectures.
+* **Pull Requests:** Submitting code enhancements or new implementations.
